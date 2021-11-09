@@ -24,6 +24,8 @@ You must determine the following:
  
  I was able to crack 15 of the 19 hashcodes given to me in the password dump file using https://md5decrypt.com
  
+ Here is the sample file: https://github.com/Cookiex25/Goldman-Sachs-Crack-leaked-password-database-/blob/main/passwrd_dump.txt
+ 
  ```
 
 e10adc3949ba59abbe56e057f20f883e : 123456       MD5
