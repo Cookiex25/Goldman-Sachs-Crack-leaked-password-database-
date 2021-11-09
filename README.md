@@ -76,7 +76,7 @@ ii) Minimum 2 special characters (/,#,*,... etc)  must be used in the password.
 iii)An external Api based tool which checks for password strength should show that the used password is strong.
 
 ```
-Complete Report:
+Complete Report: https://github.com/Cookiex25/Goldman-Sachs-Crack-leaked-password-database-/blob/main/Goldman_Sachs_PasswrdCracking_Report.pdf
  
  
 
